@@ -7,7 +7,7 @@ Documentation
 A backend service for electricity bill vending and payments using an event-driven architecture.
 
 ## Technologies
- PHP
+ ASP.NET CORE
  AWS SNS/SQS (mocked for local development)
 
 ## Setup Instructions
